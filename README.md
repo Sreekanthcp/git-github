@@ -1,2 +1,2 @@
 # git-github
-First project
+First project for learning
